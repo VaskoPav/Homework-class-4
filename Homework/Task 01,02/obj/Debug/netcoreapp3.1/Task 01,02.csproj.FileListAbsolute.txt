@@ -1,0 +1,13 @@
+C:\Users\Vasko\Desktop\C# Classes\Homework class 4\Homework\Task 01,02\bin\Debug\netcoreapp3.1\Task 01,02.exe
+C:\Users\Vasko\Desktop\C# Classes\Homework class 4\Homework\Task 01,02\bin\Debug\netcoreapp3.1\Task 01,02.deps.json
+C:\Users\Vasko\Desktop\C# Classes\Homework class 4\Homework\Task 01,02\bin\Debug\netcoreapp3.1\Task 01,02.runtimeconfig.json
+C:\Users\Vasko\Desktop\C# Classes\Homework class 4\Homework\Task 01,02\bin\Debug\netcoreapp3.1\Task 01,02.runtimeconfig.dev.json
+C:\Users\Vasko\Desktop\C# Classes\Homework class 4\Homework\Task 01,02\bin\Debug\netcoreapp3.1\Task 01,02.dll
+C:\Users\Vasko\Desktop\C# Classes\Homework class 4\Homework\Task 01,02\bin\Debug\netcoreapp3.1\Task 01,02.pdb
+C:\Users\Vasko\Desktop\C# Classes\Homework class 4\Homework\Task 01,02\obj\Debug\netcoreapp3.1\Task 01,02.csprojAssemblyReference.cache
+C:\Users\Vasko\Desktop\C# Classes\Homework class 4\Homework\Task 01,02\obj\Debug\netcoreapp3.1\Task 01,02.AssemblyInfoInputs.cache
+C:\Users\Vasko\Desktop\C# Classes\Homework class 4\Homework\Task 01,02\obj\Debug\netcoreapp3.1\Task 01,02.AssemblyInfo.cs
+C:\Users\Vasko\Desktop\C# Classes\Homework class 4\Homework\Task 01,02\obj\Debug\netcoreapp3.1\Task 01,02.csproj.CoreCompileInputs.cache
+C:\Users\Vasko\Desktop\C# Classes\Homework class 4\Homework\Task 01,02\obj\Debug\netcoreapp3.1\Task 01,02.dll
+C:\Users\Vasko\Desktop\C# Classes\Homework class 4\Homework\Task 01,02\obj\Debug\netcoreapp3.1\Task 01,02.pdb
+C:\Users\Vasko\Desktop\C# Classes\Homework class 4\Homework\Task 01,02\obj\Debug\netcoreapp3.1\Task 01,02.genruntimeconfig.cache
