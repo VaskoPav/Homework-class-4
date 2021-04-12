@@ -1,0 +1,13 @@
+C:\Users\Vasko\Desktop\C# Classes\RaceCarsHomework\RaceCars\RaceCars\bin\Debug\netcoreapp3.1\RaceCars.exe
+C:\Users\Vasko\Desktop\C# Classes\RaceCarsHomework\RaceCars\RaceCars\bin\Debug\netcoreapp3.1\RaceCars.deps.json
+C:\Users\Vasko\Desktop\C# Classes\RaceCarsHomework\RaceCars\RaceCars\bin\Debug\netcoreapp3.1\RaceCars.runtimeconfig.json
+C:\Users\Vasko\Desktop\C# Classes\RaceCarsHomework\RaceCars\RaceCars\bin\Debug\netcoreapp3.1\RaceCars.runtimeconfig.dev.json
+C:\Users\Vasko\Desktop\C# Classes\RaceCarsHomework\RaceCars\RaceCars\bin\Debug\netcoreapp3.1\RaceCars.dll
+C:\Users\Vasko\Desktop\C# Classes\RaceCarsHomework\RaceCars\RaceCars\bin\Debug\netcoreapp3.1\RaceCars.pdb
+C:\Users\Vasko\Desktop\C# Classes\RaceCarsHomework\RaceCars\RaceCars\obj\Debug\netcoreapp3.1\RaceCars.csprojAssemblyReference.cache
+C:\Users\Vasko\Desktop\C# Classes\RaceCarsHomework\RaceCars\RaceCars\obj\Debug\netcoreapp3.1\RaceCars.AssemblyInfoInputs.cache
+C:\Users\Vasko\Desktop\C# Classes\RaceCarsHomework\RaceCars\RaceCars\obj\Debug\netcoreapp3.1\RaceCars.AssemblyInfo.cs
+C:\Users\Vasko\Desktop\C# Classes\RaceCarsHomework\RaceCars\RaceCars\obj\Debug\netcoreapp3.1\RaceCars.csproj.CoreCompileInputs.cache
+C:\Users\Vasko\Desktop\C# Classes\RaceCarsHomework\RaceCars\RaceCars\obj\Debug\netcoreapp3.1\RaceCars.dll
+C:\Users\Vasko\Desktop\C# Classes\RaceCarsHomework\RaceCars\RaceCars\obj\Debug\netcoreapp3.1\RaceCars.pdb
+C:\Users\Vasko\Desktop\C# Classes\RaceCarsHomework\RaceCars\RaceCars\obj\Debug\netcoreapp3.1\RaceCars.genruntimeconfig.cache
