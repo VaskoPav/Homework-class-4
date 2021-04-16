@@ -1,0 +1,13 @@
+C:\Users\Vasko\Desktop\VideoStore\VideoStore\HomeMovieRent\obj\Debug\netcoreapp3.1\HomeMovieRent.csprojAssemblyReference.cache
+C:\Users\Vasko\Desktop\VideoStore\VideoStore\HomeMovieRent\obj\Debug\netcoreapp3.1\HomeMovieRent.AssemblyInfoInputs.cache
+C:\Users\Vasko\Desktop\VideoStore\VideoStore\HomeMovieRent\obj\Debug\netcoreapp3.1\HomeMovieRent.AssemblyInfo.cs
+C:\Users\Vasko\Desktop\VideoStore\VideoStore\HomeMovieRent\obj\Debug\netcoreapp3.1\HomeMovieRent.csproj.CoreCompileInputs.cache
+C:\Users\Vasko\Desktop\VideoStore\VideoStore\HomeMovieRent\bin\Debug\netcoreapp3.1\HomeMovieRent.exe
+C:\Users\Vasko\Desktop\VideoStore\VideoStore\HomeMovieRent\bin\Debug\netcoreapp3.1\HomeMovieRent.deps.json
+C:\Users\Vasko\Desktop\VideoStore\VideoStore\HomeMovieRent\bin\Debug\netcoreapp3.1\HomeMovieRent.runtimeconfig.json
+C:\Users\Vasko\Desktop\VideoStore\VideoStore\HomeMovieRent\bin\Debug\netcoreapp3.1\HomeMovieRent.runtimeconfig.dev.json
+C:\Users\Vasko\Desktop\VideoStore\VideoStore\HomeMovieRent\bin\Debug\netcoreapp3.1\HomeMovieRent.dll
+C:\Users\Vasko\Desktop\VideoStore\VideoStore\HomeMovieRent\bin\Debug\netcoreapp3.1\HomeMovieRent.pdb
+C:\Users\Vasko\Desktop\VideoStore\VideoStore\HomeMovieRent\obj\Debug\netcoreapp3.1\HomeMovieRent.dll
+C:\Users\Vasko\Desktop\VideoStore\VideoStore\HomeMovieRent\obj\Debug\netcoreapp3.1\HomeMovieRent.pdb
+C:\Users\Vasko\Desktop\VideoStore\VideoStore\HomeMovieRent\obj\Debug\netcoreapp3.1\HomeMovieRent.genruntimeconfig.cache
