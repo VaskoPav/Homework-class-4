@@ -1,0 +1,13 @@
+C:\Users\Vasko\Desktop\C# Classes\InheritanceC\Inherit\InheritanceVehicle\bin\Debug\netcoreapp3.1\InheritanceVehicle.exe
+C:\Users\Vasko\Desktop\C# Classes\InheritanceC\Inherit\InheritanceVehicle\bin\Debug\netcoreapp3.1\InheritanceVehicle.deps.json
+C:\Users\Vasko\Desktop\C# Classes\InheritanceC\Inherit\InheritanceVehicle\bin\Debug\netcoreapp3.1\InheritanceVehicle.runtimeconfig.json
+C:\Users\Vasko\Desktop\C# Classes\InheritanceC\Inherit\InheritanceVehicle\bin\Debug\netcoreapp3.1\InheritanceVehicle.runtimeconfig.dev.json
+C:\Users\Vasko\Desktop\C# Classes\InheritanceC\Inherit\InheritanceVehicle\bin\Debug\netcoreapp3.1\InheritanceVehicle.dll
+C:\Users\Vasko\Desktop\C# Classes\InheritanceC\Inherit\InheritanceVehicle\bin\Debug\netcoreapp3.1\InheritanceVehicle.pdb
+C:\Users\Vasko\Desktop\C# Classes\InheritanceC\Inherit\InheritanceVehicle\obj\Debug\netcoreapp3.1\InheritanceVehicle.csprojAssemblyReference.cache
+C:\Users\Vasko\Desktop\C# Classes\InheritanceC\Inherit\InheritanceVehicle\obj\Debug\netcoreapp3.1\InheritanceVehicle.AssemblyInfoInputs.cache
+C:\Users\Vasko\Desktop\C# Classes\InheritanceC\Inherit\InheritanceVehicle\obj\Debug\netcoreapp3.1\InheritanceVehicle.AssemblyInfo.cs
+C:\Users\Vasko\Desktop\C# Classes\InheritanceC\Inherit\InheritanceVehicle\obj\Debug\netcoreapp3.1\InheritanceVehicle.csproj.CoreCompileInputs.cache
+C:\Users\Vasko\Desktop\C# Classes\InheritanceC\Inherit\InheritanceVehicle\obj\Debug\netcoreapp3.1\InheritanceVehicle.dll
+C:\Users\Vasko\Desktop\C# Classes\InheritanceC\Inherit\InheritanceVehicle\obj\Debug\netcoreapp3.1\InheritanceVehicle.pdb
+C:\Users\Vasko\Desktop\C# Classes\InheritanceC\Inherit\InheritanceVehicle\obj\Debug\netcoreapp3.1\InheritanceVehicle.genruntimeconfig.cache
