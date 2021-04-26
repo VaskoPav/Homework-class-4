@@ -1,0 +1,13 @@
+C:\Users\Vasko\Desktop\LinkQ\LinkQ\HomeworkLinq\obj\Debug\netcoreapp3.1\HomeworkLinq.csprojAssemblyReference.cache
+C:\Users\Vasko\Desktop\LinkQ\LinkQ\HomeworkLinq\obj\Debug\netcoreapp3.1\HomeworkLinq.AssemblyInfoInputs.cache
+C:\Users\Vasko\Desktop\LinkQ\LinkQ\HomeworkLinq\obj\Debug\netcoreapp3.1\HomeworkLinq.AssemblyInfo.cs
+C:\Users\Vasko\Desktop\LinkQ\LinkQ\HomeworkLinq\obj\Debug\netcoreapp3.1\HomeworkLinq.csproj.CoreCompileInputs.cache
+C:\Users\Vasko\Desktop\LinkQ\LinkQ\HomeworkLinq\bin\Debug\netcoreapp3.1\HomeworkLinq.exe
+C:\Users\Vasko\Desktop\LinkQ\LinkQ\HomeworkLinq\bin\Debug\netcoreapp3.1\HomeworkLinq.deps.json
+C:\Users\Vasko\Desktop\LinkQ\LinkQ\HomeworkLinq\bin\Debug\netcoreapp3.1\HomeworkLinq.runtimeconfig.json
+C:\Users\Vasko\Desktop\LinkQ\LinkQ\HomeworkLinq\bin\Debug\netcoreapp3.1\HomeworkLinq.runtimeconfig.dev.json
+C:\Users\Vasko\Desktop\LinkQ\LinkQ\HomeworkLinq\bin\Debug\netcoreapp3.1\HomeworkLinq.dll
+C:\Users\Vasko\Desktop\LinkQ\LinkQ\HomeworkLinq\bin\Debug\netcoreapp3.1\HomeworkLinq.pdb
+C:\Users\Vasko\Desktop\LinkQ\LinkQ\HomeworkLinq\obj\Debug\netcoreapp3.1\HomeworkLinq.dll
+C:\Users\Vasko\Desktop\LinkQ\LinkQ\HomeworkLinq\obj\Debug\netcoreapp3.1\HomeworkLinq.pdb
+C:\Users\Vasko\Desktop\LinkQ\LinkQ\HomeworkLinq\obj\Debug\netcoreapp3.1\HomeworkLinq.genruntimeconfig.cache
