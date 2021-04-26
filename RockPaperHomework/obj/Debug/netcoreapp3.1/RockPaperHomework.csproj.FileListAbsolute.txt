@@ -1,0 +1,13 @@
+C:\Users\Vasko\Desktop\LinkQ\LinkQ\RockPaperHomework\obj\Debug\netcoreapp3.1\RockPaperHomework.csprojAssemblyReference.cache
+C:\Users\Vasko\Desktop\LinkQ\LinkQ\RockPaperHomework\obj\Debug\netcoreapp3.1\RockPaperHomework.AssemblyInfoInputs.cache
+C:\Users\Vasko\Desktop\LinkQ\LinkQ\RockPaperHomework\obj\Debug\netcoreapp3.1\RockPaperHomework.AssemblyInfo.cs
+C:\Users\Vasko\Desktop\LinkQ\LinkQ\RockPaperHomework\obj\Debug\netcoreapp3.1\RockPaperHomework.csproj.CoreCompileInputs.cache
+C:\Users\Vasko\Desktop\LinkQ\LinkQ\RockPaperHomework\bin\Debug\netcoreapp3.1\RockPaperHomework.exe
+C:\Users\Vasko\Desktop\LinkQ\LinkQ\RockPaperHomework\bin\Debug\netcoreapp3.1\RockPaperHomework.deps.json
+C:\Users\Vasko\Desktop\LinkQ\LinkQ\RockPaperHomework\bin\Debug\netcoreapp3.1\RockPaperHomework.runtimeconfig.json
+C:\Users\Vasko\Desktop\LinkQ\LinkQ\RockPaperHomework\bin\Debug\netcoreapp3.1\RockPaperHomework.runtimeconfig.dev.json
+C:\Users\Vasko\Desktop\LinkQ\LinkQ\RockPaperHomework\bin\Debug\netcoreapp3.1\RockPaperHomework.dll
+C:\Users\Vasko\Desktop\LinkQ\LinkQ\RockPaperHomework\bin\Debug\netcoreapp3.1\RockPaperHomework.pdb
+C:\Users\Vasko\Desktop\LinkQ\LinkQ\RockPaperHomework\obj\Debug\netcoreapp3.1\RockPaperHomework.dll
+C:\Users\Vasko\Desktop\LinkQ\LinkQ\RockPaperHomework\obj\Debug\netcoreapp3.1\RockPaperHomework.pdb
+C:\Users\Vasko\Desktop\LinkQ\LinkQ\RockPaperHomework\obj\Debug\netcoreapp3.1\RockPaperHomework.genruntimeconfig.cache
