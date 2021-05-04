@@ -1,4 +1,0 @@
-C:\Users\Vasko\Desktop\QuizApp\QuizApp\QuestionsQuiz\obj\Debug\netcoreapp3.1\QuestionsQuiz.csprojAssemblyReference.cache
-C:\Users\Vasko\Desktop\QuizApp\QuizApp\QuestionsQuiz\obj\Debug\netcoreapp3.1\QuestionsQuiz.AssemblyInfoInputs.cache
-C:\Users\Vasko\Desktop\QuizApp\QuizApp\QuestionsQuiz\obj\Debug\netcoreapp3.1\QuestionsQuiz.AssemblyInfo.cs
-C:\Users\Vasko\Desktop\QuizApp\QuizApp\QuestionsQuiz\obj\Debug\netcoreapp3.1\QuestionsQuiz.csproj.CoreCompileInputs.cache
