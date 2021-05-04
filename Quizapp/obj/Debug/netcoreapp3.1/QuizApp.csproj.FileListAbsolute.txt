@@ -1,0 +1,13 @@
+C:\Users\Vasko\Desktop\QuizApp\QuizApp\QuizApp\bin\Debug\netcoreapp3.1\QuizApp.exe
+C:\Users\Vasko\Desktop\QuizApp\QuizApp\QuizApp\bin\Debug\netcoreapp3.1\QuizApp.deps.json
+C:\Users\Vasko\Desktop\QuizApp\QuizApp\QuizApp\bin\Debug\netcoreapp3.1\QuizApp.runtimeconfig.json
+C:\Users\Vasko\Desktop\QuizApp\QuizApp\QuizApp\bin\Debug\netcoreapp3.1\QuizApp.runtimeconfig.dev.json
+C:\Users\Vasko\Desktop\QuizApp\QuizApp\QuizApp\bin\Debug\netcoreapp3.1\QuizApp.dll
+C:\Users\Vasko\Desktop\QuizApp\QuizApp\QuizApp\bin\Debug\netcoreapp3.1\QuizApp.pdb
+C:\Users\Vasko\Desktop\QuizApp\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.csprojAssemblyReference.cache
+C:\Users\Vasko\Desktop\QuizApp\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.AssemblyInfoInputs.cache
+C:\Users\Vasko\Desktop\QuizApp\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.AssemblyInfo.cs
+C:\Users\Vasko\Desktop\QuizApp\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.csproj.CoreCompileInputs.cache
+C:\Users\Vasko\Desktop\QuizApp\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.dll
+C:\Users\Vasko\Desktop\QuizApp\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.pdb
+C:\Users\Vasko\Desktop\QuizApp\QuizApp\QuizApp\obj\Debug\netcoreapp3.1\QuizApp.genruntimeconfig.cache
