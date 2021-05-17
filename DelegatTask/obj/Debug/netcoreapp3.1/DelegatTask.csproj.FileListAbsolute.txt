@@ -1,0 +1,13 @@
+C:\Users\Vasko\Desktop\C# Homewoks\Workshop\WorkShop\DelegatTask\bin\Debug\netcoreapp3.1\DelegatTask.exe
+C:\Users\Vasko\Desktop\C# Homewoks\Workshop\WorkShop\DelegatTask\bin\Debug\netcoreapp3.1\DelegatTask.deps.json
+C:\Users\Vasko\Desktop\C# Homewoks\Workshop\WorkShop\DelegatTask\bin\Debug\netcoreapp3.1\DelegatTask.runtimeconfig.json
+C:\Users\Vasko\Desktop\C# Homewoks\Workshop\WorkShop\DelegatTask\bin\Debug\netcoreapp3.1\DelegatTask.runtimeconfig.dev.json
+C:\Users\Vasko\Desktop\C# Homewoks\Workshop\WorkShop\DelegatTask\bin\Debug\netcoreapp3.1\DelegatTask.dll
+C:\Users\Vasko\Desktop\C# Homewoks\Workshop\WorkShop\DelegatTask\bin\Debug\netcoreapp3.1\DelegatTask.pdb
+C:\Users\Vasko\Desktop\C# Homewoks\Workshop\WorkShop\DelegatTask\obj\Debug\netcoreapp3.1\DelegatTask.csprojAssemblyReference.cache
+C:\Users\Vasko\Desktop\C# Homewoks\Workshop\WorkShop\DelegatTask\obj\Debug\netcoreapp3.1\DelegatTask.AssemblyInfoInputs.cache
+C:\Users\Vasko\Desktop\C# Homewoks\Workshop\WorkShop\DelegatTask\obj\Debug\netcoreapp3.1\DelegatTask.AssemblyInfo.cs
+C:\Users\Vasko\Desktop\C# Homewoks\Workshop\WorkShop\DelegatTask\obj\Debug\netcoreapp3.1\DelegatTask.csproj.CoreCompileInputs.cache
+C:\Users\Vasko\Desktop\C# Homewoks\Workshop\WorkShop\DelegatTask\obj\Debug\netcoreapp3.1\DelegatTask.dll
+C:\Users\Vasko\Desktop\C# Homewoks\Workshop\WorkShop\DelegatTask\obj\Debug\netcoreapp3.1\DelegatTask.pdb
+C:\Users\Vasko\Desktop\C# Homewoks\Workshop\WorkShop\DelegatTask\obj\Debug\netcoreapp3.1\DelegatTask.genruntimeconfig.cache
