@@ -1,0 +1,13 @@
+C:\Users\Vasko\Desktop\C# Homewoks\Workshop\WorkShop\WorkShop\bin\Debug\netcoreapp3.1\WorkShop.exe
+C:\Users\Vasko\Desktop\C# Homewoks\Workshop\WorkShop\WorkShop\bin\Debug\netcoreapp3.1\WorkShop.deps.json
+C:\Users\Vasko\Desktop\C# Homewoks\Workshop\WorkShop\WorkShop\bin\Debug\netcoreapp3.1\WorkShop.runtimeconfig.json
+C:\Users\Vasko\Desktop\C# Homewoks\Workshop\WorkShop\WorkShop\bin\Debug\netcoreapp3.1\WorkShop.runtimeconfig.dev.json
+C:\Users\Vasko\Desktop\C# Homewoks\Workshop\WorkShop\WorkShop\bin\Debug\netcoreapp3.1\WorkShop.dll
+C:\Users\Vasko\Desktop\C# Homewoks\Workshop\WorkShop\WorkShop\bin\Debug\netcoreapp3.1\WorkShop.pdb
+C:\Users\Vasko\Desktop\C# Homewoks\Workshop\WorkShop\WorkShop\obj\Debug\netcoreapp3.1\WorkShop.csprojAssemblyReference.cache
+C:\Users\Vasko\Desktop\C# Homewoks\Workshop\WorkShop\WorkShop\obj\Debug\netcoreapp3.1\WorkShop.AssemblyInfoInputs.cache
+C:\Users\Vasko\Desktop\C# Homewoks\Workshop\WorkShop\WorkShop\obj\Debug\netcoreapp3.1\WorkShop.AssemblyInfo.cs
+C:\Users\Vasko\Desktop\C# Homewoks\Workshop\WorkShop\WorkShop\obj\Debug\netcoreapp3.1\WorkShop.csproj.CoreCompileInputs.cache
+C:\Users\Vasko\Desktop\C# Homewoks\Workshop\WorkShop\WorkShop\obj\Debug\netcoreapp3.1\WorkShop.dll
+C:\Users\Vasko\Desktop\C# Homewoks\Workshop\WorkShop\WorkShop\obj\Debug\netcoreapp3.1\WorkShop.pdb
+C:\Users\Vasko\Desktop\C# Homewoks\Workshop\WorkShop\WorkShop\obj\Debug\netcoreapp3.1\WorkShop.genruntimeconfig.cache
