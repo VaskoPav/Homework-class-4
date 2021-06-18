@@ -1,9 +1,0 @@
-C:\Users\Vasko\Desktop\C# Homewoks\StoreBikesShop\BikeStore\BikeStoreDomain\bin\Debug\netcoreapp3.1\BikeStoreDomain.deps.json
-C:\Users\Vasko\Desktop\C# Homewoks\StoreBikesShop\BikeStore\BikeStoreDomain\bin\Debug\netcoreapp3.1\BikeStoreDomain.dll
-C:\Users\Vasko\Desktop\C# Homewoks\StoreBikesShop\BikeStore\BikeStoreDomain\bin\Debug\netcoreapp3.1\BikeStoreDomain.pdb
-C:\Users\Vasko\Desktop\C# Homewoks\StoreBikesShop\BikeStore\BikeStoreDomain\obj\Debug\netcoreapp3.1\BikeStoreDomain.csprojAssemblyReference.cache
-C:\Users\Vasko\Desktop\C# Homewoks\StoreBikesShop\BikeStore\BikeStoreDomain\obj\Debug\netcoreapp3.1\BikeStoreDomain.AssemblyInfoInputs.cache
-C:\Users\Vasko\Desktop\C# Homewoks\StoreBikesShop\BikeStore\BikeStoreDomain\obj\Debug\netcoreapp3.1\BikeStoreDomain.AssemblyInfo.cs
-C:\Users\Vasko\Desktop\C# Homewoks\StoreBikesShop\BikeStore\BikeStoreDomain\obj\Debug\netcoreapp3.1\BikeStoreDomain.csproj.CoreCompileInputs.cache
-C:\Users\Vasko\Desktop\C# Homewoks\StoreBikesShop\BikeStore\BikeStoreDomain\obj\Debug\netcoreapp3.1\BikeStoreDomain.dll
-C:\Users\Vasko\Desktop\C# Homewoks\StoreBikesShop\BikeStore\BikeStoreDomain\obj\Debug\netcoreapp3.1\BikeStoreDomain.pdb
